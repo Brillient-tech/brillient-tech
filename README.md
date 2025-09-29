@@ -4,6 +4,12 @@
 💬 Ask me about technical
 ⚡ Fun fact: Today is always different from yesterday
 
+TypeScript   24 hrs 24 mins  █████████████████████▒░░░   85.29 %
+Python       2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Markdown     55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+CSS          24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+
 🌐 Socials:
 Facebook Medium Stack Overflow
 
@@ -11,17 +17,7 @@ Facebook Medium Stack Overflow
 CSS3 Go GraphQL Dart HTML5 JavaScript Markdown TypeScript AWS Firebase Heroku Vercel Apollo-GraphQL Bootstrap Chakra Chart.js Electron.js Express.js Flutter jQuery JWT Less MUI NPM NestJS Next JS NodeJS NuxtJS GitHub React React Native React Router Redux SASS Styled Components Stylus TailwindCSS Vue.js Vuetify Webpack Yarn Jenkins Nginx MongoDB Postgres Figma GIT LINUX Babel Docker ESLint Jira Postman Swagger Trello
 
 📊 GitHub Stats:
-
-
-
-
 🏆 GitHub Trophies
-
-
 ✍️ Random Dev Quote
-FAILED
-
 🔝 Top Contributed Repo
-
-
 😂 Random Dev Meme
