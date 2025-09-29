@@ -30,3 +30,26 @@ CSS3 Go GraphQL Dart HTML5 JavaScript Markdown TypeScript AWS Firebase Heroku Ve
 ✍️ Random Dev Quote
 🔝 Top Contributed Repo
 😂 Random Dev Meme
+
+## 🧰 Tech and tools
+
+<!--tech stack icons-->
+<p align="left">Languages & frameworks</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,deno,go,rust,html,css,react" alt="languages & frameworks"/>
+  </a>
+</p>
+<p align="left">Databases</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,elasticsearch,mongodb" alt="databases" />
+  </a>
+</p>
+<p align="left">DevOps & tools</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,gitlab,nginx,grafana,neovim,bash,makefile" alt="devops" />
+  </a>
+</p>
+<hr/>
