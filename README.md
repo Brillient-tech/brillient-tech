@@ -1,9 +1,6 @@
  I’m currently working on Blameo
- 
-👯 I’m looking job freelancer
-
+ 👯 I’m looking job freelancer
 🌱 I’m currently learning DevOps
-
 💬 Ask me about technical
 
 ⚡ Fun fact: Today is always different from yesterday
