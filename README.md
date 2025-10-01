@@ -3,7 +3,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to you!+👋;Let's learn each ohter....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+you!+👋;Let's+learn+each+ohter....;Nice+to+meet+you!&center=true&size=30">
+     <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Max+Coin....;Nice+to+meet+you!&center=true&size=30"> -->
   </a>
 </h1>
 
@@ -51,14 +52,3 @@
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,gitlab,nginx,grafana,neovim,bash,makefile" alt="devops" />
   </a>
 </p>
-
-## 📈 My github stats
-<div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=cyberloomTech&show_icons=true&theme=radical" alt="" />
-</div>
-
-## 📊 Language Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberloomTech&layout=donut-vertical&theme=transparent&border_color=454545" alt="" />
-</div>
