@@ -3,13 +3,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Max+Coin....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to you!+👋;Let's learn each ohter....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 
-I'm a **Senior Software Developer** with **7+ years** of experience.
-Passionate coder and fast learner, self-driven and detail-oriented. Skilled at taking initiative, solving problems, and continuously improving to deliver high-quality results.
+"Senior Software Developer | 9+ Years of Experience | Full-Stack | [Your Tech Stack] | Scalable Systems | Team Leadership | Agile Practices"
 
 ## 💡 What I Love  
 
