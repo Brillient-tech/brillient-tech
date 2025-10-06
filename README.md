@@ -5,14 +5,14 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+you!+👋;Let's+learn+each....;Nice+to+meet+you!&center=true&size=30">
      <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Max+Coin....;Nice+to+meet+you!&center=true&size=30"> -->
-  </a>
-	<a href="https://github.com/Brillient-tech"></a>
+  </a>	
 </h1>
 
 ## 💫 About Me
 
 "Senior Software Developer | 9+ Years of Experience | Full-Stack | [Your Tech Stack] | Scalable Systems | Team Leadership | Agile Practices"
 
+<a href="file:///D:/My%20resume/portfolio-website/index.html#contact">My portfolio</a>
 
 ### 🛠 &nbsp;Languages and Tools
 
