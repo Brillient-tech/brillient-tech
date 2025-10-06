@@ -7,10 +7,12 @@
      <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Max+Coin....;Nice+to+meet+you!&center=true&size=30"> -->
   </a>
 </h1>
-<p><a href="https://github.com/Brillient-tech"></a></p>
+
 ## 💫 About Me
 
 "Senior Software Developer | 9+ Years of Experience | Full-Stack | [Your Tech Stack] | Scalable Systems | Team Leadership | Agile Practices"
+
+<a href="https://github.com/Brillient-tech"></a>
 
 
 ### 🛠 &nbsp;Languages and Tools
