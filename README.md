@@ -12,8 +12,6 @@
 
 "Senior Software Developer | 9+ Years of Experience | Full-Stack | [Your Tech Stack] | Scalable Systems | Team Leadership | Agile Practices"
 
-<a href="file:///D:/My%20resume/portfolio-website/index.html#contact">My portfolio</a>
-
 ### 🛠 &nbsp;Languages and Tools
 
 <table>
