@@ -1,6 +1,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=max-coin-tech.max-coin-tech">
-
+<a href="https://github.com/Brillient-tech"></a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+you!+👋;Let's+learn+each....;Nice+to+meet+you!&center=true&size=30">
@@ -11,8 +11,6 @@
 ## 💫 About Me
 
 "Senior Software Developer | 9+ Years of Experience | Full-Stack | [Your Tech Stack] | Scalable Systems | Team Leadership | Agile Practices"
-
-<a href="https://github.com/Brillient-tech"></a>
 
 
 ### 🛠 &nbsp;Languages and Tools
